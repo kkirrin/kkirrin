@@ -18,6 +18,9 @@
 
 <img src="https://github.com/kkirrin&style=flat-square&color=blue" alt=""/>
 
+<img src="https://github.com/kkirrin/?kkirrin&style=flat-square&color=blue" alt=""/>
+
+
 
 <h1 align="center">
   hey there
